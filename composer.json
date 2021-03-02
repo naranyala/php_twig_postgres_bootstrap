@@ -1,0 +1,13 @@
+{
+    "name": "naranyala/php-twig-posgres-bootstrap",
+    "authors": [
+        {
+            "name": "naranyala",
+            "email": "fudzer.mh@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0",
+        "twbs/bootstrap": "^4.6"
+    }
+}
